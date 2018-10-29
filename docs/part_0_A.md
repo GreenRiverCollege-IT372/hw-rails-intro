@@ -38,6 +38,6 @@ $ rake db:seed
 </details>
 <br />
 
-At this point you should be able to run the app locally (`rails server`) and navigating to `http://localhost:3000/movies` in your browser.  If you are using c9, use `rails s -p $PORT -b $IP` and navigate to the link generated within c9.
+At this point, if you are on your own VM, you should be able to run the app locally (`rails server`) and navigating to `http://localhost:3000/movies` in your browser.  If you are using a Google Cloud Platform VM, use `rails s -p $PORT -b $IP` and navigate to your external IP and port number (http://aaa.bbb.ccc.ddd:9292/movies).
 
 Next: [Part 0 (B): Preparation: deploy to Heroku](part_0_B.md)
