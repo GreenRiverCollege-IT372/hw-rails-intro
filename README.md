@@ -32,8 +32,7 @@ credit.
 
 Once you're confident the functionality works correctly on Heroku,
 submit the 
-URI of your deployed Heroku app in a text file with no other
-contents. 
+URI of your deployed Heroku app. 
 
 **Please be careful** to use **http** and not **https**, that is, 
 submit `http://your-app.herokuapp.com` **and NOT**
