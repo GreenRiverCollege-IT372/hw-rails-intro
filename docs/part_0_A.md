@@ -1,7 +1,6 @@
 ## Part 0 (A): Preparation: get RottenPotatoes running locally
 
-The actual RottenPotatoes starter app you will use is in another public repo: [saasbook/rottenpotatoes-rails-intro](https://github.com/saasbook/rottenpotatoes-rails-intro).  Fork that repo to your own GitHub account, and then
-clone your fork:
+The actual RottenPotatoes starter app you will use is in another repo that will be issued to you by the instructor. The command to clone your repo will be similar to the following (except your particular repo name will be unique):
 
 ```sh
 $ git clone git@github.com:your_github_username/rottenpotatoes-rails-intro.git
