@@ -3,7 +3,7 @@
 The actual RottenPotatoes starter app you will use is in another repo that will be issued to you by the instructor. The command to clone your repo will be similar to the following (except your particular repo name will be unique):
 
 ```sh
-$ git clone git@github.com:your_github_username/rottenpotatoes-rails-intro.git
+$ git clone https://github.com/GreenRiverCollege-IT372/rottenpotatoes-rails-intro-username.git
 ```
 
 Whenever you start working on a Rails project, the first thing you should do is to run Bundler, to make sure all the app's gems are installed.  Switch to the app's root directory (presumably `rottenpotatoes-rails-intro`) and run `bundle install --without production` (you only need to specify `--without production` the first time, as this setting will be remembered on future runs of Bundler for this project).
