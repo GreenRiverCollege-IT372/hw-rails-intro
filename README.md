@@ -13,7 +13,7 @@ inadvertently break something that was working before! That way you can
 always back up to an earlier revision, or just visually compare what
 changed in each file since your last “good” commit. 
 
-**Remember, commit early and often!**
+**Remember, commit early and often! And don't forget, pushing to github (origin) and pushing to deployment (heroku) are two different actions. (The instructions do not remind you to `git push origin master`, but you do need to do this so you have a copy in your github repository.) **
 
 ## Assignment Contents
 
